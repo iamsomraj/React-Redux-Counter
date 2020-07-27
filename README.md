@@ -9,11 +9,6 @@ React-Redux-Counter repository contains a basic counter. But, here I have utiliz
 3. Used separate reducers for the counterReducers and resultReducers
 4. Implemented action creators and action types
 
-## Contents
-
-1. RDBMS
-2. Case Study 1
-3. HTML CSS JavaScript
 
 ## Developer
 
