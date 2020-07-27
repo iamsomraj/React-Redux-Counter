@@ -1,0 +1,23 @@
+.button {
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: blanchedalmond;
+  color: brown;
+  border: 1px solid brown;
+  font-style: italic;
+  text-transform: capitalize;
+  margin: 2rem;
+  padding: 2rem;
+
+
+}
+
+
+.result {
+  border: 0em;
+  background-color: aquamarine;
+  margin: 2rem;
+  padding: 2rem;
+  color: black;
+  font-weight: bold;
+}
