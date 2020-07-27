@@ -1,3 +1,7 @@
+#React-Redux-Counter
+
+React-Redux-Counter repository contains a basic counter. But, here I have utilized redux for the state management. I have used two separate reducers with the action types and action creators. I have used Middleware with the help of the package called Redux Thunk. Also, I have created my own logger middleware by seeing the documentation from Redux website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
